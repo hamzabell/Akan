@@ -12,3 +12,7 @@
 - ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabell&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
