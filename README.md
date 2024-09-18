@@ -1,5 +1,3 @@
-# Akan
-
  <!-- reactsquad-banner.png -->
 [![Hire senior React engineers!](https://raw.githubusercontent.com/janhesters/janhesters/main/reactsquad-banner.png)](https://reactsquad.com)
 
