@@ -13,15 +13,6 @@
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
-
-<p align="center">
-    <a href="https://github.com/hamzabell/hamzabell">
-        <img src="https://github-profile-trophy.vercel.app/?username=hamzabell&column=-1&theme=dracula&layout=compact"width="95%"/> 
-</p>
-
-
-
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabell&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
