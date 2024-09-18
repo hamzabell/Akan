@@ -3,7 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Akan Bassey</h1>
 
-<Short description about you>
+<p>
+Software Engineer with 6+ years of experience with a demonstrated record of building systems across the logistics, medical and Legal industry with experience leading software development teams.
+</p>
 
 # 💻 Tech Stack:
 
