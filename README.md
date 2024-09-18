@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Akan Bassey</h1>
 
 <p>
-Software Engineer with 6+ years of experience with a demonstrated record of building systems across the logistics, medical and Legal industry with experience leading software development teams.
+Passionate full-stack developer with a strong foundation in React, Next.js, TypeScript, and Node.js. Experienced in building scalable web applications for various industries, including fintech, logistics, and visitor management. Proficient in agile methodologies and collaborative teamwork. Currently contributing to an anti-money-laundering app at ReactSquad. Let's build something amazing together!
 </p>
 
 # 💻 Tech Stack:
