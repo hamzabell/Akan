@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Akan Bassey</h1>
 
 <p>
-Passionate full-stack developer with a strong foundation in React, Next.js, TypeScript, and Node.js. Experienced in building scalable web applications for various industries, including fintech, logistics, and visitor management. Proficient in agile methodologies and collaborative teamwork. Currently contributing to an anti-money-laundering app at ReactSquad. Let's build something amazing together!
+Passionate full-stack developer with a strong foundation in React, Next.js, TypeScript, and Node.js. Experienced in building scalable web applications for various industries, including fintech, logistics, and visitor management. Proficient in agile methodologies and collaborative teamwork. Also contributed to an anti-money-laundering app at ReactSquad. Let's build something amazing together!
 </p>
 
 # 💻 Tech Stack:
