@@ -17,4 +17,5 @@ I'm a full-stack developer at [ReactSquad](https://reactsquad.io/) , with a stro
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabell&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
+<br>
 [![Akan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzabell)](https://github.com/hamzabell/github-readme-stats)
