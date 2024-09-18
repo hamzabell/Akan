@@ -15,8 +15,8 @@
 
 
 <p align="center">
-    <a href="https://github.com/jrohitofficial/jrohitofficial">
-        <img src="https://github-profile-trophy.vercel.app/?username=jrohitofficial&column=-1&theme=dracula&layout=compact"width="95%"/> 
+    <a href="https://github.com/hamzabell/hamzabell">
+        <img src="https://github-profile-trophy.vercel.app/?username=hamzabell&column=-1&theme=dracula&layout=compact"width="95%"/> 
 </p>
 
 
